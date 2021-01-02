@@ -44,6 +44,15 @@
             {
                 "type": "action",
                 "template": "action",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "icon",
+                "icon_class": "linkedin",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "template": "action",
                 "label": "GitHub",
                 "url": "https://github.com/sciortino",
                 "style": "icon",
@@ -66,15 +75,6 @@
                 "url": "https://www.instagram.com/",
                 "style": "icon",
                 "icon_class": "instagram",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "template": "action",
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "linkedin",
                 "new_window": true
             }
         ]
