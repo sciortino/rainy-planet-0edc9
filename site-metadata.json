@@ -85,15 +85,6 @@
                 "style": "icon",
                 "icon_class": "dev",
                 "new_window": true
-            },
-            {
-                "label": "Medium",
-                "url": "https://medium.com/",
-                "style": "icon",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
