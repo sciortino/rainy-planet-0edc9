@@ -45,7 +45,7 @@
                 "type": "action",
                 "template": "action",
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/sciortino",
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
