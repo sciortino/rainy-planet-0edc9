@@ -87,7 +87,7 @@
                 "new_window": true
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Medium",
                 "url": "https://medium.com/",
                 "style": "link",
                 "icon_class": "dev",
