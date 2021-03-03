@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work
-img_path: /images/profile2020.jpg
+img_path: /images/avatar.png
 template: page
 ---
 
