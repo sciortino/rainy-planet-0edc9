@@ -102,7 +102,7 @@ sourceMapping:
     condition: context.source.url
     target:
       file: config.yml
-      fieldPath: 'params.ffooter.links[1].new_window'
+      fieldPath: 'params.fzfooter.links[1].new_window'
   - source:
       value: link
     condition: context.source.url
